@@ -1,0 +1,9 @@
+Package: com.gmoran.voicesearch
+Name: VoiceSearch
+Depends: mobilesubstrate, flac, libactivator
+Version: 0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Guillermo Moran (fr0st)
+Author: Guillermo Moran (fr0st)
+Section: Tweaks
